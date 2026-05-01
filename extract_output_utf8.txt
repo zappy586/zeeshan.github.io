@@ -1,0 +1,63 @@
+﻿URI: mailto:mohdzeesh2002@gmail.com
+URI: https://www.linkedin.com/in/zeeshan-mohammad-bb6515211/
+URI: https://github.com/zappy586
+URI: https://medium.com/@mohdzeesh2002
+URI: https://huggingface.co/ZappY-AI
+URI: https://drive.google.com/file/d/1nhlqW7xGLlXx1SU7N9BTRHF_eIGNnuBY/view?usp=sharing
+URI: https://github.com/zappy586/FAKE-ViT
+URI: https://medium.com/@mohdzeesh2002/fake-vit-b-16-replicating-and-fine-tuning-the-vision-transformer-paper-from-scratch-with-pytorch-15b279fb1ee4
+URI: https://huggingface.co/spaces/ZappY-AI/Fake-ViT
+URI: https://github.com/zappy586/Dr-Insights
+URI: https://medium.com/@mohdzeesh2002/dr-insights-build-your-own-llm-rag-medical-advisor-using-langchain-mistral-and-chromadb-9b678143ecbd
+URI: https://github.com/zappy586/Phi-2-MATH
+--- TEXT ---
+Zeeshan Mohammed
+Data Scientist-1 (Applied CV research)
++91 9515383586 | mohdzeesh2002@gmail.com | LinkedIn | GitHub| Medium| HuggingFace
+Hyderabad, Telangana, India
+Summary
+Applied computer vision researcher at Akridata, working on VLMs for industrial visual inspection.
+Experience
+Akridata Sep 2024 û Present
+Data Scientist-I, Computer Vision R&D Hyderabad, Telangana (Remote)
+ò Deployed a LoRA-tuned Florence-2 VLM in production, that boosted a medical device manufacturing clientÆs
+defect-detection accuracy from 60% to 98%, while increasing inference throughput from 0.2 FPS to 4 FPS.
+ò Deployed a DINOv3-based few-shot ROI extractor using EoMT (encoder-only mask transformer) method
+ò Researched on controllable and text-guided synthetic defect generation/editing methods using diffusion models
+(ControlNet, AnyDoor, PowerPaint etc)
+ò Ran experiments for logical anomaly detection through GRPO-based VLM reasoning using frameworks like
+VLM-R1
+ò Worked on a custom, high-speed, GAN-based unsupervised anomaly detector model, delivering 60 FPS
+segmentation with millisecond-level latency.
+ò Developed an end-to-end agentic industrial visual-inspection app with a Dash UI and a FastAPI backend,
+integrating frontier multimodal LLMs/SLMs (API, on-device, and on-the-fly LoRA-tuning) for anomaly detection
+and human-in-the-loop feedback.
+Akridata May 2024 - Sep. 2024
+Machine Learning Intern Hyderabad, Telangana (Remote)
+ò Evaluated and tested various VLMs like Grounding DINO and OWL-ViT for zero-shot object detection
+ò Researched on LoRA tuning of these VLMs for few-shot object detection
+IIIT-H iHub-Data | Certificate Mar. 2024 û May.2024
+Research Intern Hyderabad, Telangana
+ò Interned under Prof. CK Raju. Worked on various computer vision related tasks
+ò Trained image segmentation models for the AutoNUE-21 dataset and tested their performance
+ò Used CVAT.ai to manually annotate PSU client datasets.
+Technical Skills
+Languages: Python, C++
+Technologies: PyTorch, HF-Transformers, Linux, Flask, FastAPI, Dash, ChromaDB, AWS EC2/ECR/S3, Docker
+Projects
+Fake-ViT-B/16 | GitHub | Medium | HuggingFace PyTorch, Python, Gradio
+ò Replicated the Vision Transformer (2021) from Google research and fine-tuned a pre-trained checkpoint for
+AI-generated image detection.
+ò Achieved 88% test accuracy with strong generalization and deployed on HuggingFace via Gradio.
+Dr.Insights | GitHub | Medium Python, Flask, Electron.js, LangChain, Llama.cpp, ChromaDB
+ò Full-stack RAG+LLM medical chatbot using MSFTÆs Phi-2-3B, with GPT-4-Vision for analyzing lab reports and
+scans.
+ò Implemented with Flask backend, Electron.js frontend, and ChromaDB as the vector store.
+Phi-2-MATH | GitHub transformers, PEFT, QLoRA
+ò Fine-tuned Phi-2-3B on 40k math word problems for 500 steps on T4 GPU, achieving 0.5567 training loss.
+Education
+Osmania University Hyderabad, Telangana
+Bachelor of Engineering in Computer Science; CGPA: 7.75 Dec 2020 - June 2024
+IIIT-Hyderabad Hyderabad, Telangana
+MS by Research in CSE (part-time) Jan 2026 - Dec 2027
+
